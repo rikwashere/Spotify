@@ -1,0 +1,10 @@
+
+*.tab
+
+*.pyc
+
+last-33.py
+
+*.tsv
+
+*.json
